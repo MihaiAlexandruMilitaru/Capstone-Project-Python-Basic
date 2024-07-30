@@ -1,0 +1,181 @@
+2024-07-30 10:25:34,218 - INFO - Generating 5 files
+2024-07-30 10:33:56,961 - INFO - Generating 5 files
+2024-07-30 10:33:57,004 - ERROR - Error: name has no elements
+2024-07-30 10:33:57,005 - ERROR - Error: name has no elements
+2024-07-30 10:33:57,005 - ERROR - Error: name has no elements
+2024-07-30 10:33:57,005 - ERROR - Error: name has no elements
+2024-07-30 10:33:57,006 - ERROR - Error: name has no elements
+2024-07-30 10:34:57,811 - INFO - Generating 5 files
+2024-07-30 10:34:57,859 - INFO - Data generation completed successfully
+2024-07-30 10:46:13,836 - INFO - Generating 5 files
+2024-07-30 10:46:13,877 - ERROR - Error occurred: not enough values to unpack (expected 2, got 1)
+2024-07-30 10:46:13,878 - ERROR - Error occurred: not enough values to unpack (expected 2, got 1)
+2024-07-30 10:46:13,878 - ERROR - Error occurred: not enough values to unpack (expected 2, got 1)
+2024-07-30 10:46:13,879 - ERROR - Error occurred: not enough values to unpack (expected 2, got 1)
+2024-07-30 10:46:13,879 - ERROR - Error occurred: not enough values to unpack (expected 2, got 1)
+2024-07-30 10:46:30,924 - INFO - Generating 5 files
+2024-07-30 10:46:30,965 - ERROR - Error occurred: not enough values to unpack (expected 2, got 1)
+2024-07-30 10:46:30,967 - ERROR - Error occurred: not enough values to unpack (expected 2, got 1)
+2024-07-30 10:46:30,967 - ERROR - Error occurred: not enough values to unpack (expected 2, got 1)
+2024-07-30 10:46:30,967 - ERROR - Error occurred: not enough values to unpack (expected 2, got 1)
+2024-07-30 10:46:30,968 - ERROR - Error occurred: not enough values to unpack (expected 2, got 1)
+2024-07-30 10:47:21,243 - INFO - Generating 5 files
+2024-07-30 10:47:21,284 - ERROR - Error occurred: not enough values to unpack (expected 2, got 1)
+2024-07-30 10:47:21,285 - ERROR - Error occurred: not enough values to unpack (expected 2, got 1)
+2024-07-30 10:47:21,286 - ERROR - Error occurred: not enough values to unpack (expected 2, got 1)
+2024-07-30 10:47:21,286 - ERROR - Error occurred: not enough values to unpack (expected 2, got 1)
+2024-07-30 10:47:21,286 - ERROR - Error occurred: not enough values to unpack (expected 2, got 1)
+2024-07-30 10:47:42,224 - INFO - Generating 5 files
+2024-07-30 10:47:42,265 - ERROR - Error occurred: not enough values to unpack (expected 2, got 1)
+2024-07-30 10:47:42,267 - ERROR - Error occurred: not enough values to unpack (expected 2, got 1)
+2024-07-30 10:47:42,267 - ERROR - Error occurred: not enough values to unpack (expected 2, got 1)
+2024-07-30 10:47:42,267 - ERROR - Error occurred: not enough values to unpack (expected 2, got 1)
+2024-07-30 10:47:42,267 - ERROR - Error occurred: not enough values to unpack (expected 2, got 1)
+2024-07-30 10:48:19,309 - INFO - Generating 5 files
+2024-07-30 10:48:19,351 - ERROR - Error: rand[20, 21, 23, 24, 25, 27, 28] is not a valid parameter
+2024-07-30 10:48:19,352 - ERROR - Error: rand[20, 21, 23, 24, 25, 27, 28] is not a valid parameter
+2024-07-30 10:48:19,353 - ERROR - Error: rand[20, 21, 23, 24, 25, 27, 28] is not a valid parameter
+2024-07-30 10:48:19,353 - ERROR - Error: rand[20, 21, 23, 24, 25, 27, 28] is not a valid parameter
+2024-07-30 10:48:19,353 - ERROR - Error: rand[20, 21, 23, 24, 25, 27, 28] is not a valid parameter
+2024-07-30 10:48:43,877 - INFO - Generating 5 files
+2024-07-30 10:48:43,925 - INFO - Data generation completed successfully
+2024-07-30 11:50:59,245 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 11:50:59,245 - ERROR - Error: files_count cannot be less than 0
+2024-07-30 11:52:57,559 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 11:52:57,559 - ERROR - Error: files_count cannot be less than 0
+2024-07-30 11:52:57,603 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 11:52:57,603 - ERROR - Error occurred: not enough values to unpack (expected 2, got 1)
+2024-07-30 11:53:27,718 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 11:53:27,718 - ERROR - Error: files_count cannot be less than 0
+2024-07-30 11:53:27,760 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 11:53:27,760 - ERROR - Error occurred: not enough values to unpack (expected 2, got 1)
+2024-07-30 11:53:59,246 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 11:53:59,246 - ERROR - Error: files_count cannot be less than 0
+2024-07-30 11:53:59,289 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 11:53:59,289 - ERROR - Error occurred: not enough values to unpack (expected 2, got 1)
+2024-07-30 11:54:22,008 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 11:54:22,008 - ERROR - Error: files_count cannot be less than 0
+2024-07-30 11:54:22,050 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 11:54:22,050 - ERROR - Error occurred: not enough values to unpack (expected 2, got 1)
+2024-07-30 11:56:55,423 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 11:56:55,423 - ERROR - Error: files_count cannot be less than 0
+2024-07-30 11:56:55,466 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 11:56:55,467 - ERROR - Error occurred: not enough values to unpack (expected 2, got 1)
+2024-07-30 11:57:09,066 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 11:57:09,066 - ERROR - Error: files_count cannot be less than 0
+2024-07-30 11:57:09,110 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 11:57:09,110 - ERROR - Error occurred: not enough values to unpack (expected 2, got 1)
+2024-07-30 11:59:40,028 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 11:59:40,028 - ERROR - Error: files_count cannot be less than 0
+2024-07-30 11:59:40,070 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 11:59:40,080 - INFO - Generating 1 files
+2024-07-30 11:59:40,133 - INFO - Data generation completed successfully
+2024-07-30 12:02:20,597 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 12:02:20,597 - ERROR - Error: files_count cannot be less than 0
+2024-07-30 12:02:20,640 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 12:02:20,646 - INFO - Generating 1 files
+2024-07-30 12:02:20,698 - INFO - Data generation completed successfully
+2024-07-30 12:02:27,991 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 12:02:27,991 - ERROR - Error: files_count cannot be less than 0
+2024-07-30 12:02:28,033 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 12:02:28,040 - INFO - Generating 1 files
+2024-07-30 12:02:28,087 - INFO - Data generation completed successfully
+2024-07-30 12:05:17,835 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 12:05:17,836 - ERROR - Error: files_count cannot be less than 0
+2024-07-30 12:05:17,877 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 12:05:17,883 - INFO - Generating 1 files
+2024-07-30 12:05:17,936 - INFO - Data generation completed successfully
+2024-07-30 12:05:17,983 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 12:05:17,990 - INFO - Generating 1 files
+2024-07-30 12:05:18,038 - INFO - Data generation completed successfully
+2024-07-30 12:05:26,106 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 12:05:26,106 - ERROR - Error: files_count cannot be less than 0
+2024-07-30 12:05:26,148 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 12:05:26,154 - INFO - Generating 1 files
+2024-07-30 12:05:26,201 - INFO - Data generation completed successfully
+2024-07-30 12:05:26,246 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 12:05:26,253 - INFO - Generating 1 files
+2024-07-30 12:05:26,301 - INFO - Data generation completed successfully
+2024-07-30 12:05:35,609 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 12:05:35,609 - ERROR - Error: files_count cannot be less than 0
+2024-07-30 12:05:35,651 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 12:05:35,658 - INFO - Generating 1 files
+2024-07-30 12:05:35,708 - INFO - Data generation completed successfully
+2024-07-30 12:05:35,755 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 12:05:35,761 - INFO - Generating 1 files
+2024-07-30 12:05:35,808 - INFO - Data generation completed successfully
+2024-07-30 12:06:07,247 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 12:06:07,247 - ERROR - Error: files_count cannot be less than 0
+2024-07-30 12:06:07,289 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 12:06:07,295 - INFO - Generating 1 files
+2024-07-30 12:06:07,341 - INFO - Data generation completed successfully
+2024-07-30 12:06:07,387 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 12:06:07,394 - INFO - Generating 1 files
+2024-07-30 12:06:07,443 - INFO - Data generation completed successfully
+2024-07-30 12:06:18,535 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 12:06:18,535 - ERROR - Error: files_count cannot be less than 0
+2024-07-30 12:06:18,576 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 12:06:18,582 - INFO - Generating 1 files
+2024-07-30 12:06:18,629 - INFO - Data generation completed successfully
+2024-07-30 12:06:18,675 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 12:06:18,675 - ERROR - Error: name has no elements
+2024-07-30 12:09:54,944 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 12:09:54,944 - ERROR - Error: files_count cannot be less than 0
+2024-07-30 12:09:54,985 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 12:09:54,992 - INFO - Generating 1 files
+2024-07-30 12:09:55,044 - INFO - Data generation completed successfully
+2024-07-30 12:09:55,094 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 12:09:55,100 - INFO - Generating 1 files
+2024-07-30 12:09:55,151 - INFO - Data generation completed successfully
+2024-07-30 12:09:55,198 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 12:09:55,198 - ERROR - Error: name has no elements
+2024-07-30 12:10:06,816 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 12:10:06,816 - ERROR - Error: files_count cannot be less than 0
+2024-07-30 12:10:06,859 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 12:10:06,865 - INFO - Generating 1 files
+2024-07-30 12:10:06,913 - INFO - Data generation completed successfully
+2024-07-30 12:10:06,960 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 12:10:06,966 - INFO - Generating 1 files
+2024-07-30 12:10:07,013 - INFO - Data generation completed successfully
+2024-07-30 12:10:07,061 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 12:10:07,061 - ERROR - Error: name has no elements
+2024-07-30 12:11:29,082 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 12:11:29,082 - ERROR - Error: files_count cannot be less than 0
+2024-07-30 12:11:29,124 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 12:11:29,130 - INFO - Generating 1 files
+2024-07-30 12:11:29,178 - INFO - Data generation completed successfully
+2024-07-30 12:11:29,224 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 12:11:29,230 - INFO - Generating 1 files
+2024-07-30 12:11:29,277 - INFO - Data generation completed successfully
+2024-07-30 12:11:29,324 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 12:11:29,324 - ERROR - Error: name has no elements
+2024-07-30 12:11:50,568 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 12:11:50,568 - ERROR - Error: files_count cannot be less than 0
+2024-07-30 12:11:50,608 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 12:11:50,614 - INFO - Generating 1 files
+2024-07-30 12:11:50,663 - INFO - Data generation completed successfully
+2024-07-30 12:11:50,709 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 12:11:50,716 - INFO - Generating 1 files
+2024-07-30 12:11:50,764 - INFO - Data generation completed successfully
+2024-07-30 12:11:50,810 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 12:11:50,810 - ERROR - Error: name has no elements
+2024-07-30 12:13:20,825 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 12:13:20,825 - ERROR - Error: files_count cannot be less than 0
+2024-07-30 12:13:20,865 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 12:13:20,874 - INFO - Generating 1 files
+2024-07-30 12:13:20,922 - INFO - Data generation completed successfully
+2024-07-30 12:13:20,967 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 12:13:20,973 - INFO - Generating 1 files
+2024-07-30 12:13:21,022 - INFO - Data generation completed successfully
+2024-07-30 12:13:21,069 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 12:13:21,069 - ERROR - Error: name has no elements
+2024-07-30 12:14:05,469 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 12:14:05,469 - ERROR - Error: files_count cannot be less than 0
+2024-07-30 12:14:05,510 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 12:14:05,516 - INFO - Generating 1 files
+2024-07-30 12:14:05,564 - INFO - Data generation completed successfully
+2024-07-30 12:14:05,608 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 12:14:05,615 - INFO - Generating 1 files
+2024-07-30 12:14:05,663 - INFO - Data generation completed successfully
+2024-07-30 12:14:05,708 - WARNING - Unknown argument: /Users/mmilitaru/Documents/Capstone project/temp_dir
+2024-07-30 12:14:05,708 - ERROR - Error: name has no elements

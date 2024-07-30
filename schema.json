@@ -1,0 +1,6 @@
+{
+  "name": "str:['cody', 'fox', 'rex', 'bly', 'wolffe']",
+  "age": "int:rand(20, 25)",
+  "weapon": "str:['blaster', 'sniper', 'rifle', 'pistol', 'grenade']",
+  "legion": "str:['501st', '212th', '104th', '327th', '41st', '91st', '212th', '327th']"
+}
